@@ -28,8 +28,8 @@ Case uses M2X6 Screws
   
   - [Datasheet](https://www.lcsc.com/datasheet/lcsc_datasheet_2409272232_Genesys-Logic-GL823K-HCY04_C284879.pdf)
 
-### CH213
-  - Low dropout ideal diode chip with current limiting function 
+### CH213K
+  - 0.5A Low dropout ideal diode chip with current limiting function 
 
   - [Datasheet](https://www.wch-ic.com/downloads/CH213DS1_PDF.html)
 
