@@ -12,6 +12,8 @@ Case uses M2X6 Screws
 
   - Uses a 12MHz Crystal
 
+  - 0603 100mA Fuse for limiting power to ic
+
   - Internal 5V to 3.3V LDO
 
   - Activity LED
@@ -42,15 +44,15 @@ Case uses M2X6 Screws
 
 ### UPSTREAM
 
-- 1 USB Type C Upstream Port
+- 1 USB Type C Upstream Port (16P SMD PORT)
 
 ### DOWNSTREAM
 
-- 2 USB TYPE C Downstream Ports
+- 2 USB TYPE C Downstream Ports (16P SMD PORT)
 
-- 1 USB Type A Downstream Port 
+- 1 USB Type A Downstream Port (AF10.0 USB A, the footprint is wrong so i bent the front legs when I assambled it, to be changed) 
 
-- 1 MicroSD card Slot
+- 1 MicroSD card Slot (Common style size 14*15mm)
   
 
 USB C ports are USB PD compliant
