@@ -2,6 +2,7 @@
 USB 2.0 High Speed Hub with MicroSD card slot PCB designed with Kicad 8.0
 
 Kicad Project Files, Gerber Files and STL for the case can be found in the project folders
+Case uses M2X6 Screws 
 
 # ICs
 
